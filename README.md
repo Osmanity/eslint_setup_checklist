@@ -12,7 +12,6 @@
 <!-- TABLE OF CONTENTS -->
 
 
-
 ## Table of Contents
 
 
@@ -153,6 +152,10 @@ Create a .prettierrc file for Prettier configuration:
 
 
 ```
+
+## Nextjs Eslint Setup Link
+
+https://nextjs.org/docs/app/building-your-application/configuring/eslint
 
 
 
